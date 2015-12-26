@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 00e621c0668b31cbcda9755cbd35865f5b0495d1 Isam Machlovi <machlovi@gmail.com> 1450046263 -0500	branch: Created from refs/remotes/gh/master
+00e621c0668b31cbcda9755cbd35865f5b0495d1 fdeb3cd5d22291a8a8a261f00b091faca1583401 Isam Machlovi <machlovi@gmail.com> 1450046678 -0500	commit: bg dark and darkburn colors regardless of gui_running, for now, and fontsz 14
+fdeb3cd5d22291a8a8a261f00b091faca1583401 b9cb62f16c51549e85a6dce6c7f09810e139f1b7 Isam Machlovi <machlovi@gmail.com> 1450054588 -0500	commit: updated readme
+b9cb62f16c51549e85a6dce6c7f09810e139f1b7 9c46cff575ed38a08fd64b38ad2c66b196b9f50f Isam Machlovi <machlovi@gmail.com> 1451134336 -0500	commit: jade, applescript, syntastic, vim-emacs-bindings

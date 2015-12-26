@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "gh"]
+	url = git@github.com:lsd/vim.git
+	fetch = +refs/heads/*:refs/remotes/gh/*
+[branch "master"]
+	remote = gh
+	merge = refs/heads/master
